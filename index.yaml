@@ -3,9 +3,19 @@ entries:
   value-boolean:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-10T08:44:45.307971-05:00"
+    created: "2023-08-10T08:58:45.676523-05:00"
     description: Test boolean helm rendering with Crossplane
-    digest: 7ec008f2489d70ce9311c4fa7d4e8612773a6cf3893e1b905b0fd5a5dd1c8ae7
+    digest: 9c838c1d9ff0385f1b0abec28de518f587f5ed19c085e1271dcc20054634b82e
+    name: value-boolean
+    type: application
+    urls:
+    - https://helm.borrelli.org/value-boolean-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-10T08:58:45.676338-05:00"
+    description: Test boolean helm rendering with Crossplane
+    digest: d9da591e837a6aa0b98cb5ebba6b91182eb33518af90a8f89be2afc2293ed262
     name: value-boolean
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-10T08:44:45.308152-05:00"
+    created: "2023-08-10T08:58:45.676675-05:00"
     description: Test boolean helm rendering with Crossplane
     digest: 1c3579c3f662f1a84bcafaeffe3b8a1af4859083f8ffeef162d795d4098012bf
     name: value-boolean
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://helm.borrelli.org/value-boolean/value-boolean-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-10T08:44:45.307217-05:00"
+generated: "2023-08-10T08:58:45.675701-05:00"
